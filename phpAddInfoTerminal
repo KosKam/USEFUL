@@ -1,0 +1,3 @@
+<?php 
+//add info with terminal
+$var = trim(fgets(STDIN));
