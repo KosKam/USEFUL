@@ -1,3 +1,8 @@
 <?php 
 //add info with terminal
 $var = trim(fgets(STDIN));
+
+// butiful print result
+echo '<pre>';
+ print_r($sum);
+echo '</pre>';
