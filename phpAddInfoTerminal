@@ -6,3 +6,6 @@ $var = trim(fgets(STDIN));
 echo '<pre>';
  print_r($sum);
 echo '</pre>';
+
+//declare strict types: https://wiki.php.net/rfc/scalar_type_hints_v5
+declare(strict_types=1);
