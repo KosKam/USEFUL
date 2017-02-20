@@ -9,3 +9,7 @@ echo '</pre>';
 
 //declare strict types: https://wiki.php.net/rfc/scalar_type_hints_v5
 declare(strict_types=1);
+
+// escape html from DB
+htmlspecialchars
+http://php.net/manual/en/function.htmlspecialchars.php
