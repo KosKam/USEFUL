@@ -1,0 +1,2 @@
+  // calculate compound interest
+  $interestPerMonth =  1+(($interest / 12) / 100); 
